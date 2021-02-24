@@ -1,0 +1,30 @@
+{
+  "name": "javascript_basic",
+  "version": "1.0.0",
+  "description": "- 对象、原型、函数和闭包的紧密结合组成了 JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhuqiandai/JavaScript_Basic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhuqiandai/JavaScript_Basic/issues"
+  },
+  "homepage": "https://github.com/zhuqiandai/JavaScript_Basic#readme",
+  "dependencies": {
+    "jest": "^26.6.3"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.12.17",
+    "@babel/core": "^7.12.17",
+    "@babel/node": "^7.12.17",
+    "@babel/preset-env": "^7.12.17",
+    "@types/jest": "^26.0.20",
+    "babel-jest": "^26.6.3"
+  }
+}
